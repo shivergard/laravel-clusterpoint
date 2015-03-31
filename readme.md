@@ -28,10 +28,10 @@ Once Composer has installed or updated your packages you need to register the se
 'shivergard\Clusterpoint\ClusterpointServiceProvider'
 ```
 
-Then setup a valid database configuration using the driver `oracle`. Configure your connection as usual with:
+Then setup a valid database configuration using the driver `clusterpoint`. Configure your connection as usual with:
 
 ```php
-'oracle' => array(
+'clusterpoint' => array(
     'driver' => 'clusterpoint',
     'host' => '',
     'database' => 'xe',
