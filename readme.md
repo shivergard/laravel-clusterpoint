@@ -1,6 +1,6 @@
 # Laravel 4|5 ClusterPoint DB Support
 
-###Laravel-ClusterPoint
+###Laravel-ClusterPoint [NOT A WORKING VERSION]
 
 
 **Please report any bugs you may find.**
